@@ -2,7 +2,7 @@
 Disease prediction system using python 
 
 # Aim:-
-Our project is based on predictionn system that predict the disease you have by takinng the input of symptoms from which you are suffering
+Our project is based on prediction system that predict the disease you have by takinng the input of symptoms from which you are suffering
 
 ![image](https://github.com/Flash1285/probability_project/assets/116831730/2ed2c11b-4a0f-4f96-8900-eee84c2f8198)
 
