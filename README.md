@@ -1,5 +1,5 @@
 # probability_project:-
-Disease prediction system using python (intermediate)
+Disease prediction system using python 
 
 # software used:-
 1.pycharm
