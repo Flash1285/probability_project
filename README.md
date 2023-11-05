@@ -1,4 +1,4 @@
-# probability_project
+# probability_project:-
 Disease prediction system using python (intermediate)
 
 # software used:-
@@ -8,7 +8,7 @@ Disease prediction system using python (intermediate)
 1. vs code
 2. anaconda
 
-# Requirements :-
+# Requirements:-
 1. numpy
 2. pandas
 3. sklearn
@@ -21,3 +21,9 @@ Our project is based on predictionn system that predict the disease you have by 
 
 
 ![image](https://github.com/Flash1285/probability_project/assets/116831730/447bbd20-3c06-4729-a88b-668b4e9df00a)
+
+# Team members:-
+1. Madhav Garg
+2. Vivek Agarwal
+3. Ujjwal Singh
+4. Aditya Singhal
