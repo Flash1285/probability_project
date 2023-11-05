@@ -10,7 +10,7 @@ Our project is based on prediction system that predict the disease you have by t
 ![image](https://github.com/Flash1285/probability_project/assets/116831730/447bbd20-3c06-4729-a88b-668b4e9df00a)
 
 # software used:-
-1.pycharm
+1. pycharm
 
 # software can be used:-
 1. vs code
